@@ -12,9 +12,9 @@ export default function App() {
   return (
     <div className="App">
       <h1>TV Show 📺 Recommendation</h1>
-      <p className="desc">
+      <span className="desc">
         Here are some shows which would give you a good time 😁
-      </p>
+      </span>
 
       <div className="app-content">
         {Object.keys(showsDB).map((genre) => (
@@ -60,18 +60,7 @@ export default function App() {
                 {" "}
                 {shows.Status}{" "}
               </div>
-              <div
-                className="showRating"
-                style={{
-                  paddingLeft: "20px",
-                  textAlign: "left",
-                  background: "#ffe57f",
-                  width: "150px",
-                  height: "30px",
-                  margin: "10px 0",
-                  borderRadius: "20px"
-                }}
-              >
+              <div className="showRating" style={{}}>
                 {" "}
                 {shows.Rating}{" "}
               </div>

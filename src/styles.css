@@ -7,6 +7,10 @@
   margin: auto;
 }
 
+body {
+  background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+
 .app-content {
   font-family: "Lato", sans-serif;
   font-family: "Merriweather", serif;
@@ -22,11 +26,21 @@
   border-radius: 20px;
   background: #82b1ff;
   color: #1a237e;
-  padding: 10px 0 10px 10px;
+  padding: 10px;
   margin: 10px 0;
   width: 100px;
   height: 20px;
-  textalign: center;
+  text-align: center;
+}
+
+.showRating {
+  padding-left: 20px;
+  text-align: left;
+  background: #ffe57f;
+  width: 150px;
+  height: 30px;
+  margin: 10px 0;
+  border-radius: 20px;
 }
 
 .desc {
@@ -50,6 +64,7 @@ button {
 }
 
 .card-list {
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
   padding: 3rem;
   border: 2px solid #d1d5db;
   height: 30%;
