@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Merriweather&display=swap");
+.App {
+  /*font-family: "Merriweather", serif;*/
+  text-align: left;
+  max-width: 600px;
+  margin: auto;
+}
+
+.app-content {
+  font-family: "Lato", sans-serif;
+  font-family: "Merriweather", serif;
+}
+
+.showTitle {
+  font-size: 3rem;
+  text-align: left;
+  margin: 10px 0 20px 0;
+}
+
+.show-status {
+  border-radius: 20px;
+  background: #82b1ff;
+  color: #1a237e;
+  padding: 10px 0 10px 10px;
+  margin: 10px 0;
+  width: 100px;
+  height: 20px;
+  textalign: center;
+}
+
+.desc {
+  font: smaller;
+}
+button {
+  width: 5rem;
+  background: #ff80ab;
+  border: 2px solid #880e4f;
+  border-radius: 13px;
+  height: 5vh;
+}
+
+.img-cover {
+  width: 100%;
+  border-radius: 12px;
+  height: 20em;
+  object-fit: cover;
+  object-position: top;
+  position: relative;
+}
+
+.card-list {
+  padding: 3rem;
+  border: 2px solid #d1d5db;
+  height: 30%;
+  width: 90%;
+}
+
+@media only screen and (max-width: 480px) {
+  .img-cover {
+    width: 100%;
+    border-radius: 12px;
+    height: 10em;
+    object-fit: cover;
+  }
+  .card-list {
+    margin: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #000000;
+    height: 10%;
+    width: 90%;
+  }
+  .showTitle {
+    font-size: 1.5rem;
+    padding-top: 1rem;
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "Sci-Fi": [
+    {
+      "Title": "The Supernatural",
+      "Rating": "⭐⭐⭐",
+      "Status": "Completed",
+      "img": "https://m.media-amazon.com/images/M/MV5BMmFkNDE1MzItMmNiMy00ZjljLWE1YjItZGRiYzY5MzBiOGEzXkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_.jpg"
+    },
+    {
+      "Title": "The Witcher",
+      "Rating": "⭐⭐⭐⭐",
+      "Status": "Ongoing",
+      "img": "https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg"
+    },
+    {
+      "Title": "Dark",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Status": "Completed",
+      "img": "https://wallpaperaccess.com/full/1605482.jpg"
+    },
+    {
+      "Title": "Lost In Space",
+      "Rating": "⭐⭐⭐⭐",
+      "Status": "Ongoing",
+      "img": "https://cdn.blocktoro.com/wp-content/uploads/2019/11/Lost-in-Space-Season-2-Details.jpg"
+    }
+  ],
+  "Thriller": [
+    {
+      "Title": "Jack Ryan",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Status": "Ongoing",
+      "img": "https://m.media-amazon.com/images/M/MV5BNDg1Zjc4YzktMmRmZi00ZWJmLWJiYzgtYjg3MmE0OTM1NzY5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "Title": "Family Man",
+      "Rating": "⭐⭐⭐⭐",
+      "Status": "Ongoing",
+      "img": "https://m.media-amazon.com/images/M/MV5BZjZkY2YxYTgtYmVkOC00NTgwLThjY2YtN2Y1ZWFlZmVhOTQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "Title": "Mind Hunter",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Status": "Completed",
+      "img": "https://m.media-amazon.com/images/M/MV5BNWNmYzQ1ZWUtYTQ3ZS00Y2UwLTlkMDctZThlOTJkMGJiNzBiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "Title": "The Rain",
+      "Rating": "⭐⭐⭐⭐",
+      "Status": "Ongoing",
+      "img": "https://m.media-amazon.com/images/M/MV5BMTU2MjMwNDI2OV5BMl5BanBnXkFtZTgwMDU2NzczNTM@._V1_.jpg"
+    }
+  ],
+
+  "Action": [
+    {
+      "Title": "Daredevil",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Status": "Completed",
+      "img": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_.jpg"
+    },
+    {
+      "Title": "Punisher",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Status": "Completed",
+      "img": "https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg"
+    },
+    {
+      "Title": "The Boys",
+      "Rating": "⭐⭐⭐⭐",
+      "Status": "Ongoing",
+      "img": "https://www.syfy.com/sites/syfy/files/styles/1200x680_hero/public/syfywire_blog_post/2018/09/the_boys_amazon_cover_cropped.png"
+    },
+    {
+      "Title": "The Umbrella Academy",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Status": "Ongoing",
+      "img": "https://m.media-amazon.com/images/M/MV5BNzA5MjkwYzMtNGY2MS00YWRjLThkNTktOTNmMzdlZjE3Y2IxXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_.jpg"
+    }
+  ],
+
+  "Anime": [
+    {
+      "Title": "Death Note",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Status": "Completed",
+      "img": "https://wallpapersafari.com/image/death-note-wallpaper-1920x1080.jpg"
+    },
+    {
+      "Title": "My Hero Academia",
+      "Rating": "⭐⭐⭐⭐",
+      "Status": "Ongoing",
+      "img": "https://media.comicbook.com/2019/09/my-hero-academia-heroes-rising-poster-1189429-1280x0.jpeg"
+    },
+    {
+      "Title": "Jujutsu Kaisen",
+      "Rating": "⭐⭐⭐⭐",
+      "Status": "Ongoing",
+      "img": "https://m.media-amazon.com/images/M/MV5BNzQyYzU3Y2MtOWY2Yy00ZGM2LTg3ZTUtMDJkZTJiMmEzMjYxXkEyXkFqcGdeQXVyMTI2NTY3NDg5._V1_.jpg"
+    },
+    {
+      "Title": "Attack On Titan",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Status": "Ongoing",
+      "img": "https://cdn.wallpapersafari.com/93/49/pG8vXJ.jpg"
+    }
+  ]
+}
