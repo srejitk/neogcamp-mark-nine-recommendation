@@ -60,6 +60,7 @@ export default function App() {
                 {" "}
                 {shows.Status}{" "}
               </div>
+              <div> {shows.Desc} </div>
               <div className="showRating" style={{}}>
                 {" "}
                 {shows.Rating}{" "}
